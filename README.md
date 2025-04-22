@@ -12,12 +12,6 @@ This is a beginner-friendly **Decentralized Application (DApp)** that allows use
 
 ---
 
-## 📸 Project Preview
-
-![DApp Screenshot](./preview.png) <!-- (Optional: Replace with your screenshot) -->
-
----
-
 ## ⚙️ Features
 
 - ✅ Connect MetaMask wallet
